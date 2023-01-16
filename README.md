@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dancbugs
-- 👀 I’m interested in developing my companies game app
-- 🌱 I’m currently learning the basics of html
+- 👀 I’m interested in developing my companies mobile application
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything I can learn from
 
 <!---
