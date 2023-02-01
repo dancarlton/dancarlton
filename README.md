@@ -46,5 +46,9 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
 
 <h3 align="left">My GitHub Stats</h3>
   <a href="https://github.com/dancarlton">
-  <img src="https://streak-stats.demolab.com?user=dancarlton&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=dancarlton&theme=dark&hide_border=true" />
    </a>
+<br>
+<a href="https://github.com/dancarlton/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarlton&langscount=5&theme=dark&hide_border=true" alt="Top Langs">
+</a>
