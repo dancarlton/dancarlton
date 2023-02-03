@@ -8,7 +8,7 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
 
 - 🧠 I'm currently learning the **MERN stack**
 
-- 🔭 I’m currently working on **building my companies Mobile Application**
+- 🔭 I’m currently working on **building my company's Mobile Application**
 
 - 📫 You can contact me at **danc@travelbugs.io**
 
