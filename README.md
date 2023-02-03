@@ -2,7 +2,7 @@
 
 <h2>Software Engineer at 100Devs - Full Stack Developer</h2>
 
-Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as a tool to drive people outside and explore the world around them while supporting local businesses. Aspiring Full-Stack Developer looking to build the prototype for my companies application.
+Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as a tool to drive people outside and explore the world around them while supporting local businesses. Aspiring Full-Stack Developer looking to build the prototype for my company's application.
 
 - 🌍 I'm based in **Los Angeles, Calfornia**
 
