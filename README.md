@@ -24,12 +24,12 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
   <a href="https://developer.mozilla.org/en-US/docs/Web/html">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a> 
   <a href="https://www.figma.com/developers/api">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>  
