@@ -14,28 +14,34 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
 
 - ⚡ Open for **freelancing projects, job opportunities & project collaborations**
 
-<h3 align="left">Skills</h3>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<h3 align="left">Skills</h3> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
+    <img src="https://skillicons.dev/icons?i=css" /> 
+  </a>   
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html"> 
     <img src="https://skillicons.dev/icons?i=html" />
   </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-   side_JavaScript_frameworks/React_getting_started">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" /> 
   </a> 
-  <a href="https://www.figma.com/developers/api">
-    <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>  
-  <a href="https://www.ableton.com/en/">
-    <img src="https://skillicons.dev/icons?i=ableton" />
-  </a>  
+  <a href="https://github.com/dancarlton"> 
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.figma.com/developers/api"> 
+    <img src="https://skillicons.dev/icons?i=figma" /> 
+  </a>   
+  <a href="https://www.ableton.com/en/"> 
+    <img src="https://skillicons.dev/icons?i=ableton" /> 
+  </a> 
 
 <h3 align="left">Socials</h3>
 <p align="left">
