@@ -10,7 +10,7 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
 
 - 🔭 I’m currently working on **building my company's Mobile Application**
 
-- 📫 You can contact me at **danc@travelbugs.io**
+- 📫 You can contact me at **danc@dancarlton.com**
 
 - ⚡ Open for **freelancing projects, job opportunities & project collaborations**
 
@@ -53,11 +53,7 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
   <a href="https://instagram.com/dancarlton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dancarlton" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My GitHub Stats</h3>
-  <a href="https://github.com/dancarlton">
-  <img src="https://streak-stats.demolab.com?user=dancarlton&theme=dark&hide_border=true" />
-   </a>
-<br>
+<h3 align="left">My GitHub Statistics</h3>
 <a href="https://github.com/dancarlton/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancarlton&langscount=5&theme=dark&hide_border=true" alt="Top Langs">
 </a>
