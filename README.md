@@ -8,7 +8,7 @@ Founder & CEO of TravelBugs LLC, a company whose mission is to use technology as
 
 - 🧠 I'm currently learning the **MERN stack**
 
-- 🔭 I’m currently working on **building my company's Mobile Application**
+- 🔭 I’m currently working on **building my company's Mobile Application** using React Native
 
 - 👨‍💻 You can view my portfolio at **www.dancarlton.com**
 
