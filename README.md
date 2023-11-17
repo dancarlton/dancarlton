@@ -10,7 +10,7 @@ Passionate Full-Stack Developer with a mission to architect, innovate, and deliv
 
 - 🔭 I’m currently working on **building my company's Mobile Application** using React Native
 
-- 👨‍💻 You can view my portfolio at **www.dancarlton.com**
+- 👨‍💻 You can view my portfolio at **dancarlton.com**
 
 - 📫 You can contact me at **danc@dancarlton.com**
 
