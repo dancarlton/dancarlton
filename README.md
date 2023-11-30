@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Dan</h1>
 
-<h2>Software Engineer at StoryFile Inc - Full Stack Developer</h2>
+<h2>MERN Focused Full Stack Developer</h2>
 
 Passionate Full-Stack Developer with a mission to architect, innovate, and deliver solutions that elevate the human experience on a global level. Building something exciting on the side. Open to new opportunities. 
 
